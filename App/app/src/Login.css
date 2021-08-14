@@ -1,0 +1,31 @@
+/* .boxLogin{
+    margin: auto;
+    border: 1px solid gray;
+    width: 70vw;
+    height: 150px;
+    text-align: center;
+    margin-top: 5vh;
+} */
+
+.title{
+    padding-top: 5vh;
+    text-align: center;
+}
+
+.email{
+    margin-top: 1vh;
+}
+
+.parola{
+    margin-top: 1vh;
+}
+
+.centerLogin{
+    margin-top: 2vh;
+}
+
+/* .registrationLink{
+    color: rgb(140, 35, 158);
+    float: right;
+    margin-right: 5vw;
+} */
