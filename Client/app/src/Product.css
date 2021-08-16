@@ -1,0 +1,249 @@
+.product{
+    border: 1px solid #ccc;
+    margin-top: 2vh;
+    box-shadow: 5px 10px grey;
+}
+
+.viewButton{
+    margin-top: 1vh;
+    text-align: center; 
+    margin-bottom: 1vh;  
+}
+
+.productDetails{
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.heart_red{
+    margin-right: 2vw;
+    margin-top: 2vh;
+    color: red;
+}
+
+.heart_grey{
+    margin-right: 2vw;
+    margin-top: 2vh;
+    color: gray;
+}
+
+.product-container{
+    position: relative;
+}
+
+.product-container .productImage {
+    display: block;
+}
+
+.product-container .fa-heart{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+/* ProductPage */
+.productImageProductPage{
+    margin-top: 2vh;
+}
+
+.productContainer{
+
+}
+
+/* .productItems{
+    margin-left: 5vw;
+} */
+
+/* .ingredient{
+    margin-left: 35vw;
+} */
+
+.addButton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2vh;
+}
+
+/* .centerObject{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+
+/* .line{
+    margin-top: -0.1vh;
+    width: 95vw;
+    border-bottom: 3px solid rgba(255,255,255, 0.5);
+} */
+
+/* .outer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.inner{
+    margin-left: 0.5vw;
+} */
+/* .outer
+{
+    width:100%;
+    text-align: center;
+    margin-bottom: 5vh;
+    margin-top: 2vh;
+}
+.inner
+{
+    display: inline-block;
+    margin-left: 1vw;
+    margin-right: 0.5vw;
+}
+
+.dropdown{
+    margin-top: 2vh;
+    margin-left: 2vw;
+    margin-bottom: 2vh;
+} */
+
+.centerDialogElements{
+    text-align: center;
+}
+
+/* CartProduct */
+
+.productCartContainer{
+    margin-top: 2vh;
+}
+
+.flex-gap {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+  
+  .flex-gap > div {
+    margin: 5vw; /* HERE WE ADD THE SPACE */
+  }
+
+.center{
+    text-align: center;
+}
+
+.deleteItem{
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-end; */
+}
+
+/* TablesMap */
+
+/* .tablesContainer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.tablesContainer > i{
+    flex: 47%;
+}
+
+.fa-table{
+    width: 100%;
+    margin-left: 2vw;
+} */
+
+/* Contact */
+.contactContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5vh;
+}
+
+/* Cart */
+
+.centerCartMessage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.centerCartButton{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2vh;
+}
+
+/* .totalPriceContainer{
+    display: flex;
+}
+
+.totalPrice{
+    margin-left: auto;
+    margin-right: 4.5vw;
+} */
+
+/* Profile */
+
+/* .profileContainer{
+    width: 80vw;
+    height: 860px;
+    margin:auto;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.updateUserButton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+} */
+
+
+/* Order */
+
+.orderContainer{
+    margin-left: 10vw;
+    margin-top: 5vh;
+}
+
+.orderedProducts{
+    display: flex;
+    text-align: center;
+    margin-top: 2vh;
+}
+
+/* TableReservation */
+
+.tableReservationContainer{
+    margin-left: 10vw;
+}
+
+.reserveButton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.checkAvailabilityButton {
+    margin-top: 1vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.centerInputText{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Home */
+
+.carouselContainer{
+    display: flex;
+    justify-content: center;
+}
