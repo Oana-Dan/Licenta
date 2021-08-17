@@ -1,4 +1,4 @@
-const SERVER = '';
+const SERVER = 'http://localhost:8080';
 
 class ProductStore {
     async getImage(name) {
